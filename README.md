@@ -1,9 +1,9 @@
-## Speech_to_text_convertor
+# Speech_to_text_convertor
 This is a module developed to convert the speech to text using Speech Recognition in python.
 This module has been created on Mac.
 Libraries Required:
 
-# Through zsh Terminal:
+## Through zsh Terminal:
 
 1. Homebrew: 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
