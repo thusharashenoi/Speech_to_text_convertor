@@ -4,7 +4,6 @@ This module has been created on Mac.
 Libraries Required:
 
 ## Through zsh Terminal:
-
 1. Homebrew: 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
@@ -14,5 +13,7 @@ Libraries Required:
 4.Pyaudio
 `pip install --global-option='--include-path=/usr/local/include' --global-option='--library-path=/usr/local/lib' pyaudio`
 
+## Through the environment -Jupyternotebook used
 5.SpeechRecognition
+`pip install SpeechRecognition'
 
